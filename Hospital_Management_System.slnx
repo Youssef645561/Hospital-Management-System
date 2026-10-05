@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Common/Common.csproj" Id="d4d35670-3ba4-4a33-bfbb-782f48330fe9" />
+  <Project Path="HMS.BLL/HMS.BLL.csproj" Id="87866901-7fe8-4b4e-ba53-453d5a9d2fa4" />
+  <Project Path="HMS.DAL/HMS.DAL.csproj" Id="50537e89-a4b4-44f8-9a9e-7ff01631912a" />
+  <Project Path="HMS/HMS.csproj" Id="68f03289-6723-4195-bf95-5c273eda330a" />
+  <Project Path="Youssef.WinForms.Controls/JO.WinForms.Controls.csproj" Id="5643913c-e71f-446d-a154-360bee240e05" />
+</Solution>
